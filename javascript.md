@@ -20,11 +20,3 @@
 [https://www.zerocho.com/category/JavaScript/post/583231719a87ec001834a0f2](https://www.zerocho.com/category/JavaScript/post/583231719a87ec001834a0f2) [https://hodol.dev/journal/coding-convention/](https://hodol.dev/journal/coding-convention/)  
 [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
 
-
-
-
-
-\*\*\*\*
-
-
-
